@@ -78,6 +78,12 @@ authors:
     email: gilhyeyeong@mz.ci.kr
     github_username: HYGill
     
+  hyeongjeongk:
+    name: 김현정
+    bio: 배우고자 노력하는 개발자입니다. 
+    email: khjeong@mz.co.kr 
+    github_username: dev-limeorange
+    
 # Defaults
 defaults:
 
